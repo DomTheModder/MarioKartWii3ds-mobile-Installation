@@ -3,7 +3,7 @@ A link for MkW3ds as an .cia file, a Mario Kart 7 custom track distribution as a
 
 This is only useful if you don't have an Computer, since you could just copy the files provided on your SD-Card.
 
-You can Install the MkW3ds Installer on the FBI app (assuming that ur 2ds/3ds is homebrewed) clicking on the .cia file then holding down on the blue text "view raw" and click "Copy URL". Now u can either type out the URL one on one or go on a QR-Code creation website and scan it with the FBI app. The extra files for the installer must be installed with the FTPD app on your 2ds/3ds and an app for your phone called FTP manager.
+You can Install the MkW3ds Installer on the FBI app (assuming that ur 2ds/3ds is homebrewed) by clicking on the .cia file then holding down on the blue text "view raw" and clicking "Copy URL". Now u can either type out the URL one on one or go on a QR-Code creation website and scan it with the FBI app. The extra files for the installer must be installed with the FTPD app on your 2ds/3ds and an app for your phone called FTP manager.
 
 When you open FTPD on your 2ds/3ds you will get an address which you can use to connect to your phone. Then u can transfer the files that i provided in the Releases tab to your Console.
 
